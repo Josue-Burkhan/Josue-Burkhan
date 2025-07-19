@@ -1,9 +1,5 @@
 # Hi there, I'm Josué! 👋
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RrcjFob256a29seXU1Z3ZocXN0dWU5d3Zibzdya2JvZGJkZnYyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9gbBd9hDx80E/giphy.gif" width="200">
-</p>
-
 I'm a **Full-Stack Developer**, Fantasy Author, and Student at BYU-I. My passion is building dynamic web applications and creative digital tools from the ground up.
 
 ---
@@ -28,7 +24,7 @@ I'm most comfortable working across the entire web stack, from UI to databases.
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/> </a>
   <a href="https://wordpress.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="45" height="45"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> </a>
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="45" height="45"/> </a>
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.rust-lang.org/static/images/rust-social.jpg" alt="rust" width="45" height="45"/> </a>
 </p>
 
 ---
