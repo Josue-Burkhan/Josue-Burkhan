@@ -37,7 +37,7 @@ I'm most comfortable working across the entire web stack, from UI to databases.
 ---
 
 - 💬 **Ask me about:** Full-Stack Web Development, API Design, JavaScript, Python, PHP, or building tools for creators!
-- 📫 **How to reach me:** The best way to connect is through [LinkedIn](https://www.linkedin.com/in/your-profile-url/)! *(Reemplaza la URL con la tuya)*
+- 📫 **How to reach me:** The best way to connect is through [LinkedIn](https://www.linkedin.com/in/josue-burkhan/)! *(Reemplaza la URL con la tuya)*
 - ⚡ **Fun fact:** When I'm not coding, I'm writing my own fantasy isekai novel, *"From Man to a God"*, or sketching new character designs.
 
 ---
