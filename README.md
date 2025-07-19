@@ -24,6 +24,7 @@ I'm most comfortable working across the entire web stack, from UI to databases.
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/> </a>
   <a href="https://wordpress.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="45" height="45"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> </a>
+  <a href="https://dotnet.microsoft.com/es-es/languages/csharp" target="_blank" rel="noreferrer"> <img src="https://cdn.imgbin.com/19/5/9/imgbin-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-x2vvzpHKBmQaYkXV2vQ67GPY7.jpg" alt="rust" width="45" height="45"/> </a>
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.rust-lang.org/static/images/rust-social.jpg" alt="rust" width="45" height="45"/> </a>
 </p>
 
